@@ -1,6 +1,6 @@
 package com.aleksey.erohovets.dao;
 
-import com.aleksey.erohovets.domain.entity.Country;
+import com.aleksey.erohovets.domain.Country;
 import org.hibernate.SessionFactory;
 import org.hibernate.query.Query;
 

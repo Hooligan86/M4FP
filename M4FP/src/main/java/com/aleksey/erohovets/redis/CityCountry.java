@@ -1,6 +1,6 @@
 package com.aleksey.erohovets.redis;
 
-import com.aleksey.erohovets.domain.entity.Continent;
+import com.aleksey.erohovets.domain.Continent;
 
 import java.math.BigDecimal;
 import java.util.Set;

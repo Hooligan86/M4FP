@@ -1,0 +1,9 @@
+com\aleksey\erohovets\domain\entity\CountryLanguage.class
+com\aleksey\erohovets\domain\entity\City.class
+com\aleksey\erohovets\domain\entity\Country.class
+com\aleksey\erohovets\dao\CityDAO.class
+com\aleksey\erohovets\redis\Language.class
+com\aleksey\erohovets\dao\CountryDAO.class
+com\aleksey\erohovets\redis\CityCountry.class
+com\aleksey\erohovets\Main.class
+com\aleksey\erohovets\domain\entity\Continent.class
